@@ -75,7 +75,7 @@
 
 .carousel-slide img {
     width: 100%;
-    aspect-ratio: 3/5;
+    aspect-ratio: 1/1;
     object-fit: cover;
     display: block;
 }
@@ -177,6 +177,12 @@
     .carousel-slide {
         width: 300px;
     }
+   .carousel-slide img {
+   
+    aspect-ratio: 3/5;
+
+}
+        
     
     .carousel-button {
         width: 48px;
