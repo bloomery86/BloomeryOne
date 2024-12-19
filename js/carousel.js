@@ -2,7 +2,7 @@ const IMAGES = [
     './images/bune/33.jpg',
     './images/bune/2.jpg',
     './images/bune/3.jpg',
-    './images/bune/4.jpg',
+   
     './images/bune/55.jpg',
     './images/bune/444.jpg',
     './images/bune/gal4.jpg',
